@@ -1,5 +1,4 @@
 # Introducción:
-
 Agrecol es una innovadora aplicación web enfocada en la venta y distribución de productos orgánicos. Esta plataforma permite a los usuarios comprar productos orgánicos de alta calidad, fomentando un estilo de vida saludable y sostenible. Agrecol ofrece una experiencia de compra fácil y eficiente, alentando a los consumidores a elegir opciones más ecológicas y naturales para sus necesidades diarias.
 # Descripción del proyecto
 Agrecol es una solución tecnológica sólida y fácil de usar, diseñada para facilitar el acceso a productos orgánicos. Nuestro objetivo es incrementar la conciencia sobre la alimentación saludable y promover prácticas de consumo sostenibles. La aplicación facilita la compra de productos orgánicos, ofreciendo una experiencia de usuario intuitiva y gratificante.
