@@ -1,0 +1,20 @@
+{
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-enhancing-export:obsidian-enhancing-export:export": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}
