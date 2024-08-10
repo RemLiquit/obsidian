@@ -2,9 +2,9 @@
 
 Este tutorial te guiará a través de los pasos para crear un contenedor Docker utilizando una imagen oficial de Node.js como base y desplegar la aplicación en modo producción. Utilizaremos un `Dockerfile` para construir la imagen y un archivo `docker-compose.yml` para configurar y manejar el servicio.
 
-#### 1. Crear el `Dockerfile`
+#### 1. Crear el [[Dockerfile]]
 
-El `Dockerfile` es esencial para definir cómo se construirá la imagen de Docker para tu aplicación. A continuación, te explico cada sección del archivo:
+El [[Dockerfile]] es esencial para definir cómo se construirá la imagen de Docker para tu aplicación. A continuación, te explico cada sección del archivo:
 
 1. **Usa una imagen base oficial**  
    Se utiliza `node:18-alpine` como la base de la imagen. Esta es una versión ligera de Node.js optimizada para producción.
@@ -54,9 +54,9 @@ El `Dockerfile` es esencial para definir cómo se construirá la imagen de Docke
    CMD ["npm", "start"]
    ```
 
-#### 2. Crear el `docker-compose.yml`
+#### 2. Crear el [[docker-compose.yml]]
 
-Este archivo simplifica la ejecución de la aplicación utilizando Docker Compose. Aquí se configura el servicio, se mapean puertos y se definen variables de entorno.
+Este archivo [[docker-compose.yml]] simplifica la ejecución de la aplicación utilizando Docker Compose. Aquí se configura el servicio, se mapean puertos y se definen variables de entorno.
 
 1. **Versión de Docker Compose**  
    Especificamos la versión del archivo de configuración.
@@ -94,54 +94,7 @@ Este archivo simplifica la ejecución de la aplicación utilizando Docker Compos
        restart: always
    ```
 
-#### 3. Código Final
-
-A continuación, te dejo el código final para ambos archivos:
-
-**`Dockerfile`**
-```dockerfile
-# Usa una imagen oficial de Node.js como base
-FROM node:18-alpine
-
-# Establece el directorio de trabajo dentro del contenedor
-WORKDIR /app
-
-# Copia el package.json y package-lock.json para instalar dependencias
-COPY package*.json ./
-
-# Instala las dependencias
-RUN npm install
-
-# Copia el resto del código de la aplicación
-COPY . .
-
-# Construye la aplicación
-RUN npm run build
-
-# Exponer el puerto que utilizará la aplicación
-EXPOSE 3000
-
-# Comando para iniciar la aplicación en modo producción
-CMD ["npm", "start"]
-```
-
-**`docker-compose.yml`**
-```yaml
-version: '3.8'
-services:
-  app:
-    build: .
-    ports:
-      - '3000:3000'
-    environment:
-      - NODE_ENV=production
-    volumes:
-      - .:/app
-    restart: always
-```
-
-Con estos archivos, podrás construir y desplegar tu aplicación de Node.js en un contenedor Docker de manera eficiente.
-#### 4. Contemplación Final
+#### 3. Contemplación Final
 **Recuerda tener desactivado standalone en tu "next.config.js" 
 ```
 // output: 'standalone',

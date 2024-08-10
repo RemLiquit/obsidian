@@ -1,0 +1,14 @@
+**`docker-compose.yml`
+```yaml
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - .:/app
+    restart: always
+```
