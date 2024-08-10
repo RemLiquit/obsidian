@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b7cd8a3a2e2c541d",
+        "id": "bcc13bf1afd66aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "3302805f59aef658",
+            "id": "646064455c999677",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-10 19.17.30.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-10 19.17.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-10 19.17.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-10 19.17.30.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-08-10 19.13.36.excalidraw.md"
               }
             }
           },
@@ -151,16 +147,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3302805f59aef658",
+  "active": "b222c492206c2f5d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-10 19.17.30.excalidraw.md",
     "Excalidraw/Drawing 2024-08-10 19.17.10.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-08-10 19.17.30.excalidraw.md",
     "Excalidraw/Drawing 2024-08-10 19.13.36.excalidraw.md",
     "Excalidraw",
-    "Untitled.md",
     "Projects",
     "Utils/Git/Git.md",
     "Utils/Docker/Dockerizar Aplicación Next.js.md",
