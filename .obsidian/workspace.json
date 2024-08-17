@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "8a6f1f8a0bdc8ea2",
+    "id": "e0e0a38422955e37",
     "type": "split",
     "children": [
       {
-        "id": "bcc13bf1afd66aa7",
+        "id": "c643308c83e42354",
         "type": "tabs",
         "children": [
           {
-            "id": "646064455c999677",
+            "id": "03ec389aff16bf08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Utils/Git/Tutorial/Change Local Repository.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c544e6ff49a7f604",
+    "id": "ca1618c2f566b4ae",
     "type": "split",
     "children": [
       {
-        "id": "ac856f9c5b921f14",
+        "id": "5e43b93eb8da5bca",
         "type": "tabs",
         "children": [
           {
-            "id": "b222c492206c2f5d",
+            "id": "afb5ba0b719cf7c1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "4b4387664f9ccfc3",
+            "id": "0d31dd743730e01f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "c8f2ba59a501b72d",
+            "id": "69c093441d48331b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "c572ffbce9ce6844",
+    "id": "6dda763c87b9ea25",
     "type": "split",
     "children": [
       {
-        "id": "55ec32660cee2304",
+        "id": "d40a6f3f25d753a9",
         "type": "tabs",
         "children": [
           {
-            "id": "ecae78a4f2e5cbff",
+            "id": "214e4ec861d7153d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Utils/Git/Tutorial/Change Local Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "a2681e9436112d26",
+            "id": "334fda7f3f9f1153",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Utils/Git/Tutorial/Change Local Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1efc9839445de474",
+            "id": "4d226bad999a72c3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,29 +120,20 @@
             }
           },
           {
-            "id": "2940bf4546a60959",
+            "id": "8b8bad1261140976",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-10 19.13.36.excalidraw.md"
+                "file": "Utils/Git/Tutorial/Change Local Repository.md"
               }
             }
-          },
-          {
-            "id": "cfeda9b5619352c2",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,57 +144,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b222c492206c2f5d",
+  "active": "03ec389aff16bf08",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-10 19.17.10.excalidraw.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-08-10 19.17.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-10 19.13.36.excalidraw.md",
-    "Excalidraw",
-    "Projects",
-    "Utils/Git/Git.md",
-    "Utils/Docker/Dockerizar Aplicación Next.js.md",
-    "Utils/Git/Tutorial/Change Local Repository.md",
-    "Utils/Git/Tutorial",
-    "Utils/Tmux/Installation.md",
-    "Utils/Git/Tutorial/Create SSH.md",
-    "Utils/Tmux",
-    "Univalle/Project de Sistemas III/Agrecol.md",
     "Univalle/Management Information System/Tarea MIS.md",
-    "Univalle/Management Information System/Tarea MIS.pptx",
     "Utils/Pandoc/Generate List.md",
-    "Utils/Pandoc/Untitled.md",
-    "Utils/Pandoc",
+    "README.md",
+    "Welcome.md",
+    "Utils/Git/Tutorial/Create SSH.md",
+    "Utils/Git/Tutorial/Change Local Repository.md",
     "Utils/Docker/code/docker-compose.yml.md",
     "Utils/Docker/code/Dockerfile.md",
+    "Utils/Tmux/Installation.md",
+    "Utils/Git/Tutorial",
+    "Utils/Git/Git.md",
     "Utils/Docker/code",
-    "Utils/Docker",
-    "Utils/NextJs",
-    "Utils/Untitled.md",
+    "Utils/Docker/Dockerizar Aplicación Next.js.md",
+    "Utils/Tmux",
+    "Utils/Pandoc",
     "Utils/Git",
-    "Welcome.md",
-    "[Agrecol.md",
-    "publish/attachments/create-pat-github.png",
-    "publish/attachments/clone-repo-git-plugin.png",
-    "publish/works-out-of-the-box-with-markdown-files.md",
-    "publish/update-publish-settings-github-actions.md",
-    "publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "publish/install-linked-blog-starter-locally.md",
-    "publish/how-linked-blog-starter-works.md",
-    "README.md",
-    "publish/attachments/vercel-project-id.png",
-    "publish/attachments/vercel-create-token.png",
-    "publish/attachments/vercel-account-id.png",
-    "publish/attachments/publish-dir-yml.png",
-    "publish/attachments/how-linked-blog-starter-works.png",
-    "publish/attachments/github-secrets-vercel.png",
-    "publish/attachments/fork-linked-blog-starter-md.png",
-    "publish/attachments/fn-website-demo.gif",
-    "publish/accepted-markdown-metadata.md",
-    "publish/statically-generated.md"
+    "Utils/Docker",
+    "Utils",
+    "Univalle/Project de Sistemas III/Agrecol.md",
+    "Univalle/Project de Sistemas III",
+    "Univalle/Management Information System",
+    "Univalle"
   ]
 }
