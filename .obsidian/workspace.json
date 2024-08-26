@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c643308c83e42354",
+        "id": "83676718555df34c",
         "type": "tabs",
         "children": [
           {
-            "id": "03ec389aff16bf08",
+            "id": "e7d3cc2fdde34d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utils/Git/Tutorial/Change Local Repository.md",
+                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utils/Git/Tutorial/Change Local Repository.md",
+                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utils/Git/Tutorial/Change Local Repository.md",
+                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utils/Git/Tutorial/Change Local Repository.md"
+                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md"
               }
             }
           }
@@ -147,14 +147,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ec389aff16bf08",
+  "active": "e7d3cc2fdde34d34",
   "lastOpenFiles": [
-    "Univalle/Management Information System/Tarea MIS.md",
+    "Excalidraw/Drawing 2024-08-26 17.15.35.excalidraw.md",
+    "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
+    "Univalle/Management Information System/Areas Susceptibles a ser automatizadas.md",
+    "Univalle/Management Information System/Descripcion funcional de una Empresa.md",
+    "Univalle/Project de Sistemas III/Agrecol.md",
+    "Utils/scrcpy/Settings.md",
+    "Utils/Flutter/Generate Keytool SHA1.md",
+    "Utils/scrcpy",
+    "Excalidraw/Problematica-Emergentes.excalidraw.md",
+    "Univalle/Emergentes/assets/Untitled.md",
+    "Excalidraw",
+    "Univalle/Emergentes/assets",
+    "Univalle/Emergentes",
+    "Utils/Git/Tutorial/Create SSH.md",
+    "Utils/Flutter",
+    "Utils/Git/Tutorial/Change Local Repository.md",
     "Utils/Pandoc/Generate List.md",
     "README.md",
     "Welcome.md",
-    "Utils/Git/Tutorial/Create SSH.md",
-    "Utils/Git/Tutorial/Change Local Repository.md",
     "Utils/Docker/code/docker-compose.yml.md",
     "Utils/Docker/code/Dockerfile.md",
     "Utils/Tmux/Installation.md",
@@ -164,12 +177,6 @@
     "Utils/Docker/Dockerizar Aplicación Next.js.md",
     "Utils/Tmux",
     "Utils/Pandoc",
-    "Utils/Git",
-    "Utils/Docker",
-    "Utils",
-    "Univalle/Project de Sistemas III/Agrecol.md",
-    "Univalle/Project de Sistemas III",
-    "Univalle/Management Information System",
-    "Univalle"
+    "Utils/Git"
   ]
 }
