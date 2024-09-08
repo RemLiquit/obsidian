@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utils/Cursor/Recommendations.md",
+                "file": "Utils/Cursor/Prompt Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utils/Cursor/Recommendations.md",
+                "file": "Utils/Cursor/Prompt Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utils/Cursor/Recommendations.md",
+                "file": "Utils/Cursor/Prompt Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utils/Cursor/Recommendations.md"
+                "file": "Utils/Cursor/Prompt Directory.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "45d2ae801e708219",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Utils/Prompt/Directory.md",
+    "Utils/Prompt/Alutination.md",
+    "Utils/YT-DLP/Cheat-Code.md",
     "Utils/Cursor/Recommendations.md",
+    "Utils/Cursor/Prompt Directory.md",
     "Utils/Cursor/Recommend rules.md",
+    "Untitled.md",
     "Pasted image 20240908012326.png",
     "Utils/Cursor",
-    "Utils/Prompt/Alutination.md",
     "Utils/Prompt",
-    "Utils/YT-DLP/Cheat-Code.md",
     "README.md",
     "Utils/YT-DLP",
     "Utils/Git/Tutorial/Create SSH.md",
