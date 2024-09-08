@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83676718555df34c",
+        "id": "366373f5056a2d0c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d3cc2fdde34d34",
+            "id": "45d2ae801e708219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
+                "file": "Utils/Cursor/Recommendations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
+                "file": "Utils/Cursor/Recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
+                "file": "Utils/Cursor/Recommendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md"
+                "file": "Utils/Cursor/Recommendations.md"
               }
             }
           }
@@ -147,36 +147,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7d3cc2fdde34d34",
+  "active": "45d2ae801e708219",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-26 17.15.35.excalidraw.md",
-    "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
-    "Univalle/Management Information System/Areas Susceptibles a ser automatizadas.md",
-    "Univalle/Management Information System/Descripcion funcional de una Empresa.md",
-    "Univalle/Project de Sistemas III/Agrecol.md",
-    "Utils/scrcpy/Settings.md",
+    "Untitled.md",
+    "Utils/Prompt/Directory.md",
+    "Utils/Cursor/Recommendations.md",
+    "Utils/Cursor/Recommend rules.md",
+    "Pasted image 20240908012326.png",
+    "Utils/Cursor",
+    "Utils/Prompt/Alutination.md",
+    "Utils/Prompt",
+    "Utils/YT-DLP/Cheat-Code.md",
+    "README.md",
+    "Utils/YT-DLP",
+    "Utils/Git/Tutorial/Create SSH.md",
+    "Utils/Git/Tutorial/Change Local Repository.md",
     "Utils/Flutter/Generate Keytool SHA1.md",
-    "Utils/scrcpy",
     "Excalidraw/Problematica-Emergentes.excalidraw.md",
+    "Utils/Firebase/Auth.md",
+    "Utils/Firebase/assets",
+    "Utils/Firebase/assets/Pasted image 20240829175650.png",
+    "Univalle/Management Information System/Areas Susceptibles a ser automatizadas.md",
+    "Utils/Firebase",
+    "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
+    "Univalle/Project de Sistemas III/Agrecol.md",
+    "Univalle/Emergentes/Untitled.md",
+    "Excalidraw/Drawing 2024-08-28 14.05.42.excalidraw.md",
+    "[[Pasted.md",
+    "Univalle/Emergentes/Assets/Pasted image 20240828133749.png",
+    "Univalle/Emergentes/Assets",
+    "Univalle/Emergentes/Assets/Pasted image 20240828133852.png",
+    "Utils/Secret/Twilio.md",
+    "Utils/Secret",
+    "Excalidraw/Drawing 2024-08-26 17.15.35.excalidraw.md",
+    "Univalle/Management Information System/Descripcion funcional de una Empresa.md",
+    "Utils/scrcpy/Settings.md",
+    "Utils/scrcpy",
     "Univalle/Emergentes/assets/Untitled.md",
     "Excalidraw",
     "Univalle/Emergentes/assets",
-    "Univalle/Emergentes",
-    "Utils/Git/Tutorial/Create SSH.md",
-    "Utils/Flutter",
-    "Utils/Git/Tutorial/Change Local Repository.md",
     "Utils/Pandoc/Generate List.md",
-    "README.md",
     "Welcome.md",
-    "Utils/Docker/code/docker-compose.yml.md",
-    "Utils/Docker/code/Dockerfile.md",
-    "Utils/Tmux/Installation.md",
-    "Utils/Git/Tutorial",
-    "Utils/Git/Git.md",
-    "Utils/Docker/code",
-    "Utils/Docker/Dockerizar Aplicación Next.js.md",
-    "Utils/Tmux",
-    "Utils/Pandoc",
-    "Utils/Git"
+    "Utils/Docker/code/docker-compose.yml.md"
   ]
 }
