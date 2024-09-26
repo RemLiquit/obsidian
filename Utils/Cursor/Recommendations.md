@@ -47,3 +47,4 @@ Make sure to define the interface of the component - i like typescript interface
 
 # Composer projects
 In Composer Project you can use a default prompt or your prompt and take one of two files and so that converts in a project who use  for each Composer you do.
+
