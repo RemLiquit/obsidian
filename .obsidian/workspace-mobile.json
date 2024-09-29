@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "17e04eee50da444a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff1bd04de3888a39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6109ded77ada309a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utils/Obsidian-Android/Installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2206c55aa6bf1223",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "19c6d1205f7e3b16",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0bf65cff41937184",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "962ceed46f2587b8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b8715ef4c7c0f830",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "59977caf93aaa25c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b9f2601431a4b62e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Utils/Obsidian-Android/Installation.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7a49e0c349c52c2b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Utils/Obsidian-Android/Installation.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a8ac1e77faa43ac6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Utils/Obsidian-Android/Installation.md"
+          }
+        }
+      },
+      {
+        "id": "d1362f35c9050570",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6109ded77ada309a",
+  "lastOpenFiles": [
+    "Utils/Obsidian-Android/Installation.md",
+    "README.md",
+    "Untitled.md",
+    "Pasted image 20240908012326.png",
+    "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+    "Utils/Untitled.md",
+    "Utils/Obsidian-Android"
+  ]
+}
