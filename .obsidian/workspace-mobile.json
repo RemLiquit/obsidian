@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff1bd04de3888a39",
+        "id": "06c8f31caa9cc83c",
         "type": "tabs",
         "children": [
           {
-            "id": "6109ded77ada309a",
+            "id": "c5923c49a544b418",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Utils/Obsidian-Android/Installation.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Utils/Obsidian-Android/Installation.md",
+            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Utils/Obsidian-Android/Installation.md",
+            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Utils/Obsidian-Android/Installation.md"
+            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
           }
         }
       },
@@ -142,7 +140,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6109ded77ada309a",
+  "active": "d1362f35c9050570",
   "lastOpenFiles": [
     "Utils/Obsidian-Android/Installation.md",
     "README.md",
