@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d5726b9fdc78a040",
+        "id": "6224a84fc6e9bf44",
         "type": "tabs",
         "children": [
           {
-            "id": "b255eb4e3adf73c8",
+            "id": "11a0c1c98e541530",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
+                "file": "Univalle/Management Information System/ERP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+            "file": "Univalle/Management Information System/ERP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+            "file": "Univalle/Management Information System/ERP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
+            "file": "Univalle/Management Information System/ERP.md"
           }
         }
       },
@@ -140,10 +142,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b255eb4e3adf73c8",
+  "active": "11a0c1c98e541530",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-30 22.11.24.excalidraw.md",
+    "IMG_20241002_173441.jpg",
+    "1000003986.jpg",
+    "Univalle/Management Information System/ERP.md",
     "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-02 14.25.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-02 17.12.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 22.11.24.excalidraw.md",
     "Excalidraw/Drawing 2024-09-29 12.00.55.excalidraw.md",
     "Excalidraw/Drawing 2024-09-23 12.58.15.excalidraw.md",
     "Utils/Obsidian-Android/Installation.md",
