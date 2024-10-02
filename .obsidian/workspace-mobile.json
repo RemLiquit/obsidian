@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b045da5261cff0d8",
+        "id": "d5726b9fdc78a040",
         "type": "tabs",
         "children": [
           {
-            "id": "ca4ae4d8ed172048",
+            "id": "b255eb4e3adf73c8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "79213aa00096ee83",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-30 22.11.24.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -150,7 +134,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca4ae4d8ed172048",
+  "active": "b255eb4e3adf73c8",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-30 22.11.24.excalidraw.md",
     "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
