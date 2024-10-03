@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a22cf151f4bbbad9",
+        "id": "91050ff6b3481c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "51e74e4ecc1487cb",
+            "id": "af2ec0d4b47659d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6dda763c87b9ea25",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +123,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ec5843557ea0ea19",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "13cd7ba99469d5b7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -130,18 +154,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51e74e4ecc1487cb",
+  "active": "af2ec0d4b47659d3",
   "lastOpenFiles": [
+    "Univalle/Management Information System/ERP.md",
+    "IMG_20241002_173441.jpg",
+    "Excalidraw/Drawing 2024-10-02 17.12.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-02 14.25.20.excalidraw.md",
+    "1000003986.jpg",
+    "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 22.11.24.excalidraw.md",
+    "Utils/Tmux/Installation.md",
+    "README.md",
+    "Utils/Obsidian-Android/Installation.md",
+    "Utils/Obsidian-Android",
+    "Utils/Git/Tutorial/Change Local Repository.md",
+    "Untitled.md",
+    "Utils/YT-DLP/Cheat-Code.md",
     "Utils/scrcpy/Settings.md",
+    "Utils/Pandoc/Generate List.md",
+    "Utils/Git/Tutorial/Create SSH.md",
+    "Utils/Git/Git.md",
     "Utils/Flutter/Generate Keytool SHA1.md",
     "Utils/Cursor/Prompt Directory.md",
     "Excalidraw/Drawing 2024-09-23 12.58.15.excalidraw.md",
@@ -154,32 +197,17 @@
     "Excalidraw/Drawing 2024-09-11 14.08.40.excalidraw.md",
     "Excalidraw/Problematica-Emergentes.excalidraw.md",
     "Pasted image 20240908012326.png",
-    "Utils/Cursor/Recommend rules.md",
     "Utils/Cursor/Nextjs",
     "Utils/Cursor.zip",
-    "Utils/Cursor/Recommendations.md",
-    "Utils/Secret/Twilio.md",
-    "Utils/Tmux/Installation.md",
-    "Utils/YT-DLP/Cheat-Code.md",
-    "Untitled.md",
     "Utils/Cursor",
     "Utils/Cursor/Prompt",
-    "README.md",
     "Utils/YT-DLP",
-    "Utils/Git/Tutorial/Create SSH.md",
-    "Utils/Git/Tutorial/Change Local Repository.md",
-    "Utils/Firebase/Auth.md",
     "Utils/Firebase/assets",
     "Utils/Firebase/assets/Pasted image 20240829175650.png",
-    "Univalle/Management Information System/Areas Susceptibles a ser automatizadas.md",
     "Utils/Firebase",
-    "Univalle/Management Information System/PROYECTO DE IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN EMPRESARIAL.md",
-    "Univalle/Project de Sistemas III/Agrecol.md",
-    "Univalle/Emergentes/Untitled.md",
     "Univalle/Emergentes/Assets/Pasted image 20240828133749.png",
     "Univalle/Emergentes/Assets",
     "Univalle/Emergentes/Assets/Pasted image 20240828133852.png",
-    "Utils/Secret",
-    "Utils/scrcpy"
+    "Utils/Secret"
   ]
 }
