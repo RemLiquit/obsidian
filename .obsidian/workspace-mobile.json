@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6224a84fc6e9bf44",
+        "id": "0b30a21fe96c2e09",
         "type": "tabs",
         "children": [
           {
-            "id": "11a0c1c98e541530",
+            "id": "a2c83a7573db04ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univalle/Management Information System/ERP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Univalle/Management Information System/ERP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Univalle/Management Information System/ERP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Univalle/Management Information System/ERP.md"
-          }
+          "state": {}
         }
       },
       {
@@ -142,12 +134,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11a0c1c98e541530",
+  "active": "a2c83a7573db04ab",
   "lastOpenFiles": [
+    "Sensores.md",
+    "Excalidraw/Drawing 2024-10-04 16.26.52.excalidraw.md",
+    "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+    "/Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+    "Untitled",
+    "Univalle/Management Information System/ERP.md",
     "IMG_20241002_173441.jpg",
     "1000003986.jpg",
-    "Univalle/Management Information System/ERP.md",
-    "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 14.25.20.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 17.12.30.excalidraw.md",
     "Excalidraw/Drawing 2024-09-30 22.11.24.excalidraw.md",
@@ -155,7 +151,6 @@
     "Excalidraw/Drawing 2024-09-23 12.58.15.excalidraw.md",
     "Utils/Obsidian-Android/Installation.md",
     "README.md",
-    "Untitled.md",
     "Pasted image 20240908012326.png",
     "Utils/Untitled.md",
     "Utils/Obsidian-Android"
