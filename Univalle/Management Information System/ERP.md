@@ -64,9 +64,25 @@ Va desde Aprovicionamiento, recepción, almacenamiento
 * Control de costo de garantías
 * Seguimiento a las quejas y reclamos
 * Control a devoluciones
-* 
 
+# Proyecto de desarrolo ERP - Fase analysis
 
+## Intrucciones de la tarea
+> Realizar El analysis para una herramienta ERP para El problema que han estado desarrolado, debe incluir 3 areas funciones de la Empresa
+
+1. Analisis de la problematica
+2. Obtener todos Los requerimientos funcionales y no funcionales de Las areas implicadas
+3. Actores y casos de uso
+
+### 1. Analisis de la problematica
+En la Empresa [[Agrecol]] buscarnos acercarnos al productor al cliente, esto debido a que El productor muchas veces no tiene una forma directa o tan convenience de acercarse a sus futuros clientes, de promocionar sus productos, para solventar estos puntos se dispondra de una opcion informatizada, donde El productor pueda ofrecer sus productor y a su vez cliente pueda observer y apreciar Los productor que podran ser adquiridos.
+### 2. Requerimientos funcionales y no 
+
+| Area                 | Requerimientos Funcionales                                                               | Requerimientos no Funcionales                                 |
+| -------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Recepcion**        | Control de recepcion,                                                                    | Disponibilidad 24/7                                           |
+| **Almacenamiento**   | Control de productos, Listado de productos, Accesibilidad por todos usuarios interesados | Almacenaje amplio, Obtencion del producto en tiempo razonable |
+| **Recursos Humanos** | Atencion horario laboral,                                                                | Disponibilidad 24/7                                           |
 
 
 

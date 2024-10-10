@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0b30a21fe96c2e09",
+        "id": "9184f9197adfdcdb",
         "type": "tabs",
         "children": [
           {
-            "id": "a2c83a7573db04ab",
+            "id": "c90b9fd1b3c070dd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
+                "file": "Univalle/Management Information System/ERP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+            "file": "Univalle/Management Information System/ERP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
+            "file": "Univalle/Management Information System/ERP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md"
+            "file": "Univalle/Management Information System/ERP.md"
           }
         }
       },
@@ -123,9 +125,17 @@
           "type": "git-view",
           "state": {}
         }
+      },
+      {
+        "id": "d88d56ca168051d9",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,11 +150,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2c83a7573db04ab",
+  "active": "c90b9fd1b3c070dd",
   "lastOpenFiles": [
+    "Excalidraw/EmergentesMatrices.excalidraw.md",
+    "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
     "Sensores.md",
     "Excalidraw/Drawing 2024-10-04 16.26.52.excalidraw.md",
-    "Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
     "/Excalidraw/Propuesta Procesamiento de videos.excalidraw.md",
     "Untitled",
     "Univalle/Management Information System/ERP.md",
